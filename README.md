@@ -23,13 +23,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://gitlab.com/kostabagrov" title="GitLab — work profile">
-    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="36" alt="GitLab (work profile)" />
+  <a href="https://gitlab.com/kostabagrov" title="GitLab">
+    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="36" alt="GitLab" />
   </a>
-</p>
-
-<p align="center">
-  <sub>GitLab — work profile</sub>
 </p>
 
 ---
